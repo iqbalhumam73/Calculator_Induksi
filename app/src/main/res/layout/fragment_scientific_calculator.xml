@@ -23,7 +23,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_sin_sc"
+                android:id="@+id/btn_sin"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -32,7 +32,7 @@
                 android:textColor="@color/white" />
 
             <Button
-                android:id="@+id/btn_cos_sc"
+                android:id="@+id/btn_cos"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -41,21 +41,12 @@
                 android:textColor="@color/white" />
 
             <Button
-                android:id="@+id/btn_tan_sc"
+                android:id="@+id/btn_tan"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:backgroundTint="@color/black"
                 android:text="tan"
-                android:textColor="@color/white" />
-
-            <Button
-                android:id="@+id/btn_log_sc"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:backgroundTint="@color/black"
-                android:text="log"
                 android:textColor="@color/white" />
 
         </LinearLayout>
@@ -66,7 +57,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_clear_sc"
+                android:id="@+id/btn_clear"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -75,7 +66,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_percent_sc"
+                android:id="@+id/btn_percent"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -84,7 +75,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_delete_sc"
+                android:id="@+id/btn_delete"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -93,7 +84,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_devide_sc"
+                android:id="@+id/btn_divide"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -110,7 +101,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_7_sc"
+                android:id="@+id/btn_7"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -119,7 +110,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_8_sc"
+                android:id="@+id/btn_8"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -128,7 +119,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_9_sc"
+                android:id="@+id/btn_9"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -137,7 +128,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_multiple_sc"
+                android:id="@+id/btn_multiple"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -153,7 +144,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_4_sc"
+                android:id="@+id/btn_4"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -162,7 +153,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_5_sc"
+                android:id="@+id/btn_5"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -171,7 +162,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_6_sc"
+                android:id="@+id/btn_6"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -180,7 +171,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_substraction_sc"
+                android:id="@+id/btn_substraction"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -196,7 +187,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_1_sc"
+                android:id="@+id/btn_1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -205,7 +196,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_2_sc"
+                android:id="@+id/btn_2"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -214,7 +205,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_3_sc"
+                android:id="@+id/btn_3"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -223,7 +214,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_sum_sc"
+                android:id="@+id/btn_sum"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -239,16 +230,16 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_go_to_simple"
+                android:id="@+id/btn_close_bracket"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:backgroundTint="@color/black"
-                android:text="Simple Calc"
-                android:textColor="@color/white" />
+                android:backgroundTint="@color/white"
+                android:text=")"
+                android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_0_sc"
+                android:id="@+id/btn_0"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -257,7 +248,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_dot_sc"
+                android:id="@+id/btn_dot"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -266,12 +257,12 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_equals_sc"
+                android:id="@+id/btn_go_to_simple"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:backgroundTint="#ffa500"
-                android:text="="
+                android:text="Simple Calc"
                 android:textColor="@color/white" />
         </LinearLayout>
     </LinearLayout>

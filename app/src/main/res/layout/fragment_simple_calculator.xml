@@ -51,7 +51,7 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_devide"
+                android:id="@+id/btn_divide"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -197,13 +197,13 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/btn_go_to_scientific"
+                android:id="@+id/btn_close_bracket"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:backgroundTint="@color/black"
-                android:text="Sci Calc"
-                android:textColor="@color/white" />
+                android:backgroundTint="@color/white"
+                android:text=")"
+                android:textColor="@color/black" />
 
             <Button
                 android:id="@+id/btn_0"
@@ -224,12 +224,12 @@
                 android:textColor="@color/black" />
 
             <Button
-                android:id="@+id/btn_equals"
+                android:id="@+id/btn_go_to_scientific"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:backgroundTint="#ffa500"
-                android:text="="
+                android:text="Sci Calc"
                 android:textColor="@color/white" />
         </LinearLayout>
     </LinearLayout>
